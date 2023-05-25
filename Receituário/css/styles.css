@@ -1,0 +1,75 @@
+
+*{
+  font-family: Helvetica;
+  box-sizing: border-box;
+}
+
+body{
+  padding: 1rem;
+}
+
+h2,h3 {
+  text-align: center;
+}
+
+  #div1,form, h1{
+
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin: 0 auto;
+  gap: 0.3rem;
+
+  }
+
+  .print {
+
+  flex-direction: column;
+  display: none;
+  text-align: left;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 0.8rem;
+}
+
+@media print { 
+
+.print { 
+
+  display: flex;}
+
+h2,form,#botao {
+  
+  display: none;
+}
+
+#footer{
+
+  
+  display: block;
+  margin-top: 300px;
+  text-align: center;
+  font-size: 0.7rem;
+}
+
+#fcrm{
+  font-weight: bold;
+}
+
+#prescPrint{
+
+padding: 10px;
+margin-top: 10px;
+}
+
+#receita{
+  text-align: center;
+}
+#label{
+font-weight: bold;
+text-align: center;
+}
+
+#prescPrint{
+  border: solid 1px;
+}
