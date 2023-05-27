@@ -11,7 +11,7 @@ CURSO: Análise e Desenvolvimento de Software Multiplataforma
  PROJETO – PROGRAMAÇÃO WEB FRONT END
 Proposta
 
-SIMPLE MEDICAL SYSTEM – desenvolva uma aplicação para a geração de receituário médico de utilização de medicamentos. Normalmente quando estamos sendo atendidos por um médico, ou outro profissional da saúde, há um momento em que o médico receita alguns medicamentos que devem ser tomados pelo paciente para que a enfermidade que ele está possa ser curada.
+SIMPLE MEDICAL SYSTEM – desenvolva uma aplicação para a geração de receituário médico de utilização de medicamentos. Normalmente quando estamos sendo atendidos por um médico, ou outro profissional da saúde, há um momento em que o médico receita alguns medicamentos que devem ser tomados pelo paciente para que a enfermidade que ele está possa ser curada.
 A nossa aplicação, nesta situação acadêmica, será composta pelas tecnologias WEB BOOTSTRAP e JQUERY e objetivará demonstrar que os conceitos apresentados nos temas desta primeira etapa da disciplina podem ser usados no mercado
 
 Apresentação: 
@@ -19,7 +19,7 @@ Na tela inicial foi criado um formulário com uma apresentação simples e intui
 
 Tela principal do sistema Receituário Médico:
 <div>
- <img src="![Imagem1](https://github.com/MarcioDuani/Projeto-programa-o-Web-front-end/assets/101338708/be1fb883-3492-42f1-9356-29e9bcea4657)"/>
+ <img src="https://github.com/MarcioDuani/Projeto-programa-o-Web-front-end/assets/101338708/be1fb883-3492-42f1-9356-29e9bcea4657"/>
  </div>
  
 Os campos escolhidos foram baseados nas informações mais relevantes para esse tipo de documento, contendo as identificações do paciente da clínica e do médico, mas seria bem simples incluir novos campos caso fosse necessário:
